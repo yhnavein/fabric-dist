@@ -1,0 +1,28 @@
+{
+  "name": "fabric-dist",
+  "description": "Production build of the popular FabricJs npm library. Versioning started with version 1.7.19",
+  "version": "1.7.19",
+  "scripts": {},
+  "author": "Juriy Zaytsev <kangax@gmail.com>",
+  "contributors": [
+    {
+      "name": "Andrea Bogazzi",
+      "email": "andreabogazzi79@gmail.com"
+    }
+  ],
+  "keywords": [
+    "canvas",
+    "graphic",
+    "graphics",
+    "SVG",
+    "node-canvas",
+    "parser",
+    "HTML5",
+    "object model"
+  ],
+  "devDependencies": {
+    "fabric": "1.7.19"
+  },
+  "license": "MIT",
+  "main": "./fabric.js"
+}
