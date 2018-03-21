@@ -1,7 +1,7 @@
 {
   "name": "fabric-dist",
   "description": "Production build of the popular FabricJs npm library. Versioning started with version 1.7.19",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "scripts": {},
   "author": "Piotr Dabrowski <admin@puredev.eu>, Juriy Zaytsev <kangax@gmail.com>",
   "contributors": [
@@ -25,7 +25,7 @@
     "object model"
   ],
   "devDependencies": {
-    "fabric": "2.0.1"
+    "fabric": "2.0.2"
   },
   "license": "MIT",
   "main": "./fabric.js"
